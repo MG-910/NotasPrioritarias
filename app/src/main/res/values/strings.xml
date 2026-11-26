@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Notas Prioritarias</string>
+    <string name="titulo_pantalla">Mis Notas</string>
+    <string name="agregar_nota">Agregar Nota</string>
+    <string name="sin_notas">No hay notas. ¡Agrega una!</string>
+    <string name="nueva_nota">Nueva Nota</string>
+    <string name="hint_titulo">Título</string>
+    <string name="hint_contenido">Contenido</string>
+    <string name="btn_guardar">Guardar</string>
+    <string name="btn_cancelar">Cancelar</string>
+</resources>
